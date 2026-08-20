@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Piyush Kumar Soni 👋</h1>
-<h3 align="center">AI Developer · LLM Expert · Digital Growth Specialist</h3>
-<h4 align="center">15+ Years Building & Growing Digital Businesses</h4>
+<h3 align="center">SEO Expert · AI/LLM Specialist · Digital Growth Strategist at Lucky Digitals</h3>
+<h4 align="center">15+ Years Across SEO, Web Development, Digital Marketing & AI Automation</h4>
 
 <br/>
 
@@ -17,10 +17,10 @@
 
 ### 🤖 About Me
 
-- 🧠 Currently working as **AI Developer & LLM Integration Expert**
-- 🏢 15+ years at my agency — grew it from ground up across dev, SEO & marketing
-- 🔭 Building AI-powered tools for SEO automation, content & business workflows
-- 💬 Ask me about **LLMs, AI agents, SEO strategy, web development**
+- 🧠 Currently working across **SEO, AI/LLM integration and digital growth at Lucky Digitals**
+- 🏢 15+ years of hands-on experience across **SEO, web development, digital marketing, automation and team leadership**
+- 🔭 Building AI-powered tools for **SEO automation, GEO, AI search, content and business workflows**
+- 💬 Ask me about **Technical SEO, GEO, AI Search, LLMs, AI agents, RAG, Schema Markup and web development**
 - 📍 Based in India | Open to global remote projects
 
 ---
@@ -29,8 +29,9 @@
 
 | Domain | Skills |
 |--------|--------|
-| 🤖 **AI & LLMs** | LLM Integration, Prompt Engineering, AI Agents, ChatGPT API, RAG |
-| 🔍 **SEO** | Technical SEO, Schema Markup, Keyword Research, Ahrefs, SEMrush |
+| 🤖 **AI & LLMs** | LLM Integration, Prompt Engineering, AI Agents, OpenAI API, LangChain, RAG |
+| 🔍 **SEO, GEO & AI Search** | Technical SEO, Generative Engine Optimization, AI Search Optimization, Entity SEO, Schema Markup, Keyword Research, Local SEO, Ahrefs, SEMrush |
+| ⚙️ **SEO Automation** | AI-powered SEO audits, reporting workflows, schema generation, content workflows, AI-assisted research |
 | 🌐 **Web Dev** | PHP, HTML5, CSS, Bootstrap, WordPress, Responsive Design |
 | 📊 **Analytics** | Google Analytics, Search Console, Moz, BuzzSumo |
 | 🎨 **Design** | Photoshop, Illustrator, After Effects, Video Production |
@@ -57,16 +58,18 @@
 
 ### 📌 What I'm Working On
 
-- 🔬 AI-powered SEO automation tools
-- 🤖 Custom LLM agents for business workflows  
-- 📈 AI + Digital Marketing growth systems
-- 🧩 LangChain / RAG-based applications
+- 🔬 AI-powered **SEO automation and audit tools**
+- 🌐 **GEO and AI Search optimization workflows**
+- 🤖 Custom **LLM agents for SEO and business workflows**
+- 🧩 **Entity SEO and Schema Markup automation**
+- 📚 LangChain / RAG-based applications
+- 📈 AI + Digital Growth systems
 
 ---
 
 ### 📫 Let's Connect
 
-> I'm available for **AI consulting, LLM projects, SEO strategy & web development**.  
+> I'm available for **SEO strategy, GEO, AI Search, AI/LLM consulting, automation projects and web development**.  
 > Reach me on [LinkedIn](https://linkedin.com/in/piyushkumarsoni) or drop an email.
 
 ---
